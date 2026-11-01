@@ -1,9 +1,52 @@
-# about:
-⌘ Built RedOps | Python-based reconnaissance and cybersecurity toolkit.<br><br>⌁ Open to collaboration<br>Offensive security, security research, CTFs, and open-source projects.<br><br>⚙ Focus areas<br>Penetration Testing, Network Security, Web Application Security, and Vulnerability Research.<br><br>⌗ Currently exploring<br>Python, JavaScript, Linux, Network Protocols, and Offensive Security.<br><br>> Technical interests<br>System Security, Network Infrastructure, Web Exploitation, and Security Automation.
+# vo1byt3
+
+<p align="center">
+  <img src="simon.jpg" width="100%" />
+</p>
+
+<h2 align="center">Cybersecurity | Penetration Testing | Software Development</h2>
+
+---
+
+### about
+
+Cybersecurity enthusiast focused on penetration testing, network security, and software development. Interested in understanding how systems work, identifying vulnerabilities, and developing tools to improve security.
+
+Constantly learning, experimenting, and building practical projects.
+
+### Core Skills
+
+**Programming Languages**: Python, JavaScript (Fundamentals), and C (Learning)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+**Cybersecurity**: Penetration Testing, Network Security, Web Application Security, Vulnerability Assessment, and Reconnaissance
+
+**Tools & Technologies**: Linux, Git & GitHub, Nmap, and Burp Suite.
+
+### Featured Projects
+
+**RedOps**
+
+A Python-based cybersecurity toolkit designed to bring multiple reconnaissance and security utilities together in one interface.
+
+**Python Cyber Tools**
+
+A collection of Python-based tools developed to explore networking, automation, and cybersecurity concepts.
+
+### Current Focus
+
+- Developing practical penetration testing skills.
+- Exploring network protocols and infrastructure security.
+- Learning web application vulnerabilities.
+- Building cybersecurity tools with Python.
+- Improving Linux and command-line proficiency.
+
+---
+
+<p align="center">
+  <i>Building. Breaking. Understanding. Securing.</i>
+</p>
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyahahahhad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyad-h-736971407) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vo1dbyt3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OilStock5786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyad.hussam.tech@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
