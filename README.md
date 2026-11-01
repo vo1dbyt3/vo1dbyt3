@@ -1,4 +1,4 @@
-# 💫 About Me:
+# about:
 ⌘ Built<br>RedOps | Python-based reconnaissance and cybersecurity toolkit.<br><br>⌁ Open to collaboration<br>Offensive security, security research, CTFs, and open-source projects.<br><br>⚙ Focus areas<br>Penetration Testing, Network Security, Web Application Security, and Vulnerability Research.<br><br>⌗ Currently exploring<br>Python, JavaScript, Linux, Network Protocols, and Offensive Security.<br><br>> Technical interests<br>System Security, Network Infrastructure, Web Exploitation, and Security Automation.
 
 
@@ -7,9 +7,3 @@
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vo1dbyt3&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vo1dbyt3&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vo1dbyt3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
