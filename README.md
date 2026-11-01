@@ -1,5 +1,5 @@
 # 💫 About Me:
-⌘ Currently building<br>RedOps | Python-based reconnaissance and cybersecurity toolkit.<br><br>⌁ Open to collaboration<br>Offensive security, security research, CTFs, and open-source projects.<br><br>⚙ Focus areas<br>Penetration Testing, Network Security, Web Application Security, and Vulnerability Research.<br><br>⌗ Currently exploring<br>Python, JavaScript, Linux, Network Protocols, and Offensive Security.<br><br>> Technical interests<br>System Security, Network Infrastructure, Web Exploitation, and Security Automation.
+⌘ Built<br>RedOps | Python-based reconnaissance and cybersecurity toolkit.<br><br>⌁ Open to collaboration<br>Offensive security, security research, CTFs, and open-source projects.<br><br>⚙ Focus areas<br>Penetration Testing, Network Security, Web Application Security, and Vulnerability Research.<br><br>⌗ Currently exploring<br>Python, JavaScript, Linux, Network Protocols, and Offensive Security.<br><br>> Technical interests<br>System Security, Network Infrastructure, Web Exploitation, and Security Automation.
 
 
 ## 🌐 Socials:
