@@ -4,7 +4,7 @@
   <img src="simon.jpg" width="20%" />
 </p>
 
-<h2 align="center">Cybersecurity | Penetration Testing | Software Development</h2>
+<h2 align="center">Cybersecurity | Penetration Testing | Software Development | Game Development</h2>
 
 ## About
 
@@ -31,6 +31,18 @@ Socially isolated cybersecurity enthusiast focused on penetration testing, netwo
 **Python Cyber Tools**: A collection of Python-based tools developed to explore networking, automation, and cybersecurity concepts.
 
 **Networking Labs & Projects**: A collection of hands-on networking labs and simulations built using Cisco Packet Tracer, exploring network configuration, device communication, IP addressing, and network infrastructure.
+
+---
+
+## Published Games
+
+**Inner Wars**: An adventure game inside the human body. (Made with Python "Pygame" module)
+
+**Down Here**: A game about descending - floor by floor. (Made with Godot Engine)
+
+### Both are published on itch.io 👇🏻
+
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://eyaddoo.itch.io/)   
 
 ---
 
