@@ -4,11 +4,11 @@
   <img src="simon.jpg" width="20%" />
 </p>
 
-<h2 align="center">Cybersecurity | Penetration Testing | Software Development | Game Development</h2>
+<h2 align="center">Cybersecurity | Penetration Testing | Security Development | Game Development</h2>
 
 ## About
 
-Socially isolated cybersecurity enthusiast focused on penetration testing, network security, and "partially" on software/game development. Interested in understanding how systems work, identifying vulnerabilities, and developing tools to improve security.
+Socially isolated cybersecurity enthusiast focused on penetration testing, network security, security development, and "partially" on game development. Interested in understanding how systems work, identifying vulnerabilities, and developing tools to improve security.
 
 ---
 
@@ -51,9 +51,9 @@ Socially isolated cybersecurity enthusiast focused on penetration testing, netwo
 - Developing practical penetration testing skills.
 - Exploring network protocols and infrastructure security.
 - Learning web application vulnerabilities.
-- Building cybersecurity tools with Python.
+- Building my own cybersecurity tools with Python.
 
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyahahahhad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eyad-h-736971407) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vo1dbyt3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OilStock5786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyad.hussam.tech@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eyahahahhad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyad-h-736971407) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vo1dbyt3) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/OilStock5786) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyad.hussam.tech@gmail.com) 
