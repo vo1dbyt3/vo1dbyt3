@@ -8,7 +8,7 @@
 
 ## About
 
-Socially isolated cybersecurity enthusiast focused on penetration testing, network security, security development, and "partially" on game development. Interested in understanding how systems work, identifying vulnerabilities, and developing tools to improve security.
+A cybersecurity enthusiast focused on penetration testing, network security, security development, and "partially" on game development. Interested in understanding how systems work, identifying vulnerabilities, and developing tools to improve security.
 
 ---
 
